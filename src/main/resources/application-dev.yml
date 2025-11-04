@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: catalog-dev
+
+server:
+  port: 8080
+
+logging:
+  level:
+    com.tiquetera: DEBUG
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
