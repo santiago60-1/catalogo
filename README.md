@@ -126,9 +126,3 @@ If you want, I can:
 - generate additional docs in `docs/` (ERD, diagrams),
 - add explicit request/response examples for Swagger UI, or
 - create basic integration tests for `Venue` and `Event` endpoints.
-
----
-_Automatically generated: project summary and quick start guide._
-
----
-_Generado automáticamente: resumen y guía rápida para trabajar con el repositorio._
